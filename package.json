@@ -1,0 +1,18 @@
+{
+  "name": "Juice-Jam-Dashboard",
+  "version": "0.0.0",
+  "description": "An application to keep track of EMS transports during an ICS command event",
+  "author": "Andrew Brown <arbrown93@icloud.com>",
+  "contributors": [],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "private": true
+}
